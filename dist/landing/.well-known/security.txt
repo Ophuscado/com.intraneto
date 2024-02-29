@@ -1,6 +1,6 @@
 Acknowledgments: https://intraneto.com/contributors
 Canonical: https://intraneto.com/.well-known/security.txt
-Contact: mailto:security@intraneto.com
+Contact: mailto:support@intraneto.com
 Expires: Sat, 31 Dec 2029 23:59 +0000
 Encryption: https://intraneto.com/.well-known/security.pub
 Preferred-Languages: en, es, zh
