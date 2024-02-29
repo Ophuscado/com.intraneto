@@ -1,4 +1,4 @@
-# Welcome to Intraneto
+# Hello, World!
 
 ## About
 
@@ -7,7 +7,7 @@
 
 ## Contributions
 
-Please read the file [`CONTRIBUTIONS.md`](https://github.com/Intraneto/app/blob/main/CONTRIBUTIONS.md) before submitting a pull request. For security reports, please follow our [responsible disclosure policy.](https://intraneto.com/security)
+Please read the file [`CONTRIBUTIONS.md`](https://github.com/Intraneto/app/blob/main/CONTRIBUTIONS.md) before submitting a pull request. For security reports, please follow the [responsible disclosure policy.](https://intraneto.com/security)
 
 ## License
 
